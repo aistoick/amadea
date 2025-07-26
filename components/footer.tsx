@@ -17,10 +17,11 @@ export function Footer() {
   ]
 
   const categories = [
-    { name: "Pain Relief", href: "/products?category=pain-relief" },
-    { name: "Vitamins", href: "/products?category=vitamins" },
-    { name: "Antibiotics", href: "/products?category=antibiotics" },
-    { name: "Heart Health", href: "/products?category=heart-health" },
+    { name: "ELISA Kits", href: "/products" },
+    { name: "Rapid Tests", href: "/products" },
+    { name: "Consumables", href: "/products" },
+    { name: "Human Reagents", href: "/products" },
+    { name: "Reagents", href: "/products" },
   ]
 
   const socialLinks = [
